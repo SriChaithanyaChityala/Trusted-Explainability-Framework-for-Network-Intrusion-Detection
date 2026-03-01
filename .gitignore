@@ -1,0 +1,18 @@
+# Environment
+.venv/
+venv/
+env/
+*.pyc
+__pycache__/
+.Python
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Optional: uncomment if you don't want to track large or generated files
+# data/raw/*.txt
+# models/*.pkl
